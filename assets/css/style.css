@@ -262,12 +262,98 @@
 
  /*********************** User Styling **********************/
 
- div
- {
-  border: 1px solid;
- }
+.wrapper
+{
+  margin: 0px auto;
+  width:60%;
+}
 
- body
- {
-  margin: 20px 20px;
- }
+h1
+{
+  float: left;
+}
+
+h1 img
+{
+  float: left;
+}
+
+h1 a
+{
+  display: inline-block;
+  text-indent: -9999px;
+}
+
+nav
+{
+  float: right;
+  margin-top:46px;
+}
+
+.headnav
+{
+  position: relative;
+  line-height: inherit;
+}
+
+.navlist
+{
+  list-style: none;
+  float: left;
+  width: 100px;
+  text-align: center;
+}
+
+.navlist a
+{
+  line-height: inherit;
+  color: black;
+  text-decoration: none;
+}
+
+
+.section1
+{
+  border: 2px solid;
+  background: grey;
+}
+
+.left1
+{
+  display: inline-block;
+  width: 49.5%;
+}
+
+.left1 img
+{
+  height:300px;
+}
+
+.right1
+{
+  display: inline-block;
+  border-color: red;
+  color: white;
+  width: 49.5%;
+  padding-top: 40px;
+}
+
+.right1 h2
+{
+  font-size: 30px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.right1 span
+{
+  color: aqua;
+}
+
+.right1 img
+{
+  margin-top: 35px;
+  height: 60px;
+  width: 80px;
+}
+
