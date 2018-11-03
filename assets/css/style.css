@@ -261,3 +261,13 @@
  }
 
  /*********************** User Styling **********************/
+
+ div
+ {
+  border: 1px solid;
+ }
+
+ body
+ {
+  margin: 20px 20px;
+ }
